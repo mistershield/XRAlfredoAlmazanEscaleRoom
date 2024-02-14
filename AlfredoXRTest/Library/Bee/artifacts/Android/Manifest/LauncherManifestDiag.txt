@@ -1,0 +1,2 @@
+Using template 'D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\LauncherManifest.xml'
+
