@@ -1,215 +1,215 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
-		INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
 	xmlns:android
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:146-176
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:146-176
 uses-permission#android.permission.INTERNET
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-77
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-74
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-69
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-69
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-66
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-66
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-78
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-78
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:20-75
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:20-75
 uses-feature#0x00030000
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-52
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-52
 	android:glEsVersion
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-49
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-49
 uses-feature#android.hardware.vulkan.version
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-91
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-91
 	android:required
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:64-88
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:64-88
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-63
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-63
 uses-feature#android.hardware.microphone
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-87
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-87
 	android:required
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:60-84
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:60-84
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-59
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-59
 uses-feature#android.hardware.touchscreen
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-88
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-88
 	android:required
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:61-85
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:61-85
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-60
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-99
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-99
 	android:required
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:72-96
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:72-96
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-71
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-108
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-108
 	android:required
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:81-105
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:81-105
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:17-80
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:17-80
 application
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:3-35:17
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:3-35:17
 	android:extractNativeLibs
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
 	android:label
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-81
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-81
 	android:icon
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:82-113
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:82-113
 	android:allowBackup
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:114-141
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:114-141
 	android:networkSecurityConfig
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:142-197
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:142-197
 meta-data#unity.splash-mode
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-69
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-69
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:49-66
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:49-66
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-48
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-48
 meta-data#unity.splash-enable
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-74
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-74
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:51-71
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:51-71
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-50
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-50
 meta-data#unity.launch-fullscreen
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-78
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:55-75
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:55-75
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-54
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-54
 meta-data#notch.config
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-81
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:44-78
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-43
 meta-data#unity.auto-report-fully-drawn
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:61-81
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:61-81
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-60
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-60
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-28:16
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-28:16
 	android:screenOrientation
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:134-171
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:134-171
 	android:launchMode
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:172-203
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:172-203
 	android:hardwareAccelerated
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:341-376
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:341-376
 	android:exported
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:377-400
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:377-400
 	android:resizeableActivity
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:306-340
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:306-340
 	android:configChanges
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:204-305
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:204-305
 	android:theme
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:69-133
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:69-133
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:15-68
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:15-68
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-24:23
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-24:23
 category#android.intent.category.LAUNCHER
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-69
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-69
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:19-66
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:19-66
 action#android.intent.action.MAIN
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-61
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-61
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-58
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-58
 category#com.oculus.intent.category.VR
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:9-66
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:9-66
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:19-63
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:19-63
 meta-data#unityplayer.UnityActivity
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-82
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-82
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:59-79
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:59-79
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-58
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-58
 meta-data#notch_support
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-70
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-70
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:47-67
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:47-67
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:18-46
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:18-46
 meta-data#com.oculus.vr.focusaware
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:7-81
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:7-81
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:58-78
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:58-78
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:18-57
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:18-57
 meta-data#com.samsung.android.vr.application.mode
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-97
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:5-97
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:71-94
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:71-94
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-70
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:16-70
 meta-data#com.unity.xr.oculus.LowOverheadMode
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-91
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-91
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:67-88
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:67-88
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-66
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-66
 meta-data#com.unity.xr.oculus.LateLatching
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-88
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-88
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:64-85
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:64-85
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-63
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-63
 meta-data#com.unity.xr.oculus.LateLatchingDebug
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-93
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-93
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:69-90
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:69-90
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-68
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-68
 meta-data#com.oculus.supportedDevices
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:5-93
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:5-93
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:59-90
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:59-90
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:16-58
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:16-58
 meta-data#com.oculus.ossplash.background
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:5-86
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:5-86
 	android:value
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:62-83
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:62-83
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:16-61
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:16-61
 uses-feature#android.hardware.vr.headtracking
-ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:3-111
+ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:3-111
 	android:version
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:89-108
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:89-108
 	android:required
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:65-88
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:65-88
 	android:name
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:17-64
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:17-64
 uses-sdk
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		ADDED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		INJECTED from D:\Documents\Unity\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\XRAlfredoAlmazanEscaleRoom\AlfredoXRTest\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml

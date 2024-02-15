@@ -18,7 +18,7 @@ public class DoorHandler : MonoBehaviour
     private bool isPuzzleSolved;
     private void CheckIfITCanOpenTheDoor()
     {
-        if (puzzlesSolved >= minPuzzledSolveToOpenDoor)
+        if (puzzlesSolved >= minPuzzledSolveToOpenDoor && isDoorClosed)
         {
             openDoor.Invoke();
             blockLights.Invoke();

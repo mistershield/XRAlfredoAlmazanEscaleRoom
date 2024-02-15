@@ -15,12 +15,12 @@ public class SkullPuzzleHandler : MonoBehaviour
         if(skullsDestroyed >= skullsToDestroy)
         {
             audioSource.Play();
-            AllSkullsDestroyedEvent.Invoke();
         }
     }
     public void IncreaseSkullesDestroyed()
     {
         skullsDestroyed++;
+        AllSkullsDestroyedEvent.Invoke();
         CheckIfAllSkullsWhereDestroyed();
     }
 }

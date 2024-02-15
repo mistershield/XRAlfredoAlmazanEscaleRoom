@@ -1,0 +1,772 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.18f1 (d29bea25151d) revision 13802474'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'es' Physical Memory: 16068 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Documents\Unity\Versions\2022.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+D:/GitHub/XRAlfredoAlmazanEscaleRoom/AlfredoXRTest
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+60039
+Successfully changed project path to: D:/GitHub/XRAlfredoAlmazanEscaleRoom/AlfredoXRTest
+D:/GitHub/XRAlfredoAlmazanEscaleRoom/AlfredoXRTest
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28604] Host "[IP] 192.168.1.105 [Port] 0 [Flags] 2 [Guid] 1524659837 [EditorId] 1524659837 [Version] 1048832 [Id] WindowsEditor(7,Mainb) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [28604] Host "[IP] 192.168.1.105 [Port] 0 [Flags] 2 [Guid] 1524659837 [EditorId] 1524659837 [Version] 1048832 [Id] WindowsEditor(7,Mainb) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 1143.50 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 319.76 ms.
+Initialize engine version: 2022.3.18f1 (d29bea25151d)
+[Subsystems] Discovering subsystems at path D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/XRAlfredoAlmazanEscaleRoom/AlfredoXRTest/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25e0)
+    Vendor:   NVIDIA
+    VRAM:     3977 MB
+    Driver:   31.0.15.4629
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Documents/Unity/Versions/2022.3.18f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.104196 seconds.
+- Loaded All Assemblies, in  3.084 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 264 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.635 seconds
+Domain Reload Profiling: 3719ms
+	BeginReloadAssembly (2667ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (145ms)
+	LoadAllAssembliesAndSetupDomain (198ms)
+		LoadAssemblies (2668ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (192ms)
+				TypeCache.ScanAssembly (146ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (635ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (593ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (467ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (80ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  8.665 seconds
+Refreshing native plugins compatible for Editor in 8.45 ms, found 11 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x00041] in .\Library\PackageCache\com.unity.xr.oculus@4.1.2\Runtime\OculusLoader.cs:287 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x000c9] in .\Library\PackageCache\com.unity.xr.oculus@4.1.2\Runtime\OculusLoader.cs:272 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <bfbc89a04b6b4dd49c3614d03fc31ce8>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <bfbc89a04b6b4dd49c3614d03fc31ce8>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <bfbc89a04b6b4dd49c3614d03fc31ce8>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <8e887700cd7e4674989da7b046e8eaa6>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.921 seconds
+Domain Reload Profiling: 10585ms
+	BeginReloadAssembly (129ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (8471ms)
+		LoadAssemblies (8142ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (409ms)
+			TypeCache.Refresh (370ms)
+				TypeCache.ScanAssembly (334ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1922ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1698ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (68ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (125ms)
+			ProcessInitializeOnLoadAttributes (1461ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 362.88 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.07 ms.
+Unloading 5948 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 88 unused Assets / (77.1 KB). Loaded Objects now: 6396.
+Memory consumption went from 216.3 MB to 216.3 MB.
+Total: 4.345500 ms (FindLiveObjects: 0.365900 ms CreateObjectMapping: 0.214900 ms MarkObjects: 3.606600 ms  DeleteObjects: 0.157300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 65292.128412 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod8.prefab
+  artifactKey: Guid(e686d6786c1a6ea46b3d0d0355431796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod8.prefab using Guid(e686d6786c1a6ea46b3d0d0355431796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc8e778ecc322b05a5d22cbc7e220d5') in 2.928977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/DungeonProps-1.4.5/Bown.prefab
+  artifactKey: Guid(2eca3a3d733e34c44abb48c604c20460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Bown.prefab using Guid(2eca3a3d733e34c44abb48c604c20460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86320d4fac6f6ed93187b8d156d3200f') in 1.474564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/DungeonProps-1.4.5/Coin.013_1.prefab
+  artifactKey: Guid(eedfdfe2cd526d147b66ccbdc783205b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Coin.013_1.prefab using Guid(eedfdfe2cd526d147b66ccbdc783205b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6faa8d66c3092d168e54ef641dac0f') in 0.664536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/DungeonProps-1.4.5/Banner (1).prefab
+  artifactKey: Guid(5bd14f5d1cd696348b2fa3497de8a0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Banner (1).prefab using Guid(5bd14f5d1cd696348b2fa3497de8a0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e3c60ed611e5845703770a0e03a61d') in 0.327765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/DungeonProps-1.4.5/Dungeon_env_mod16.prefab
+  artifactKey: Guid(efa59f31b462d4349b689235e291c29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Dungeon_env_mod16.prefab using Guid(efa59f31b462d4349b689235e291c29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48866671a63c94238090df517024d65f') in 0.472449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DungeonProps-1.4.5/Blade.prefab
+  artifactKey: Guid(2f311a929b14a064b85c1af37a6c58ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Blade.prefab using Guid(2f311a929b14a064b85c1af37a6c58ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05ab121a0a9c184afdc822a3e8e7919') in 0.337595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/DungeonProps-1.4.5/book_mesh_Cube.003.prefab
+  artifactKey: Guid(b3984bfe9b346f24e9be4fcda0fdfe40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/book_mesh_Cube.003.prefab using Guid(b3984bfe9b346f24e9be4fcda0fdfe40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd203b53fd008635b8b29bf0400d43c') in 0.606222 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/DungeonProps-1.4.5/ChestboxBody.prefab
+  artifactKey: Guid(db7dda744d2fe4c4ba892f6b2e081522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/ChestboxBody.prefab using Guid(db7dda744d2fe4c4ba892f6b2e081522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d34a301e338f6d2528f62559e9c34d') in 0.451620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1457
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod6.prefab
+  artifactKey: Guid(29f787a0930c109418e55706e54bd744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod6.prefab using Guid(29f787a0930c109418e55706e54bd744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eca82d5d69f29181c09fad4b52013981') in 0.692228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DungeonProps-1.4.5/DungeonStoneSeven.prefab
+  artifactKey: Guid(a5c2d7b97172ae346b541461dc217b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/DungeonStoneSeven.prefab using Guid(a5c2d7b97172ae346b541461dc217b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf1d25277dbee667a16239cd08ac518') in 0.271890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/DungeonProps-1.4.5/Cage.prefab
+  artifactKey: Guid(0f540bc3a1f843a4d94f77eb7bebb524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Cage.prefab using Guid(0f540bc3a1f843a4d94f77eb7bebb524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222de9989855d3288b3833b0ba5224ec') in 0.447997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/DungeonProps-1.4.5/Dungeon_env_mod11.prefab
+  artifactKey: Guid(ab8d37d5e7fb9b347b62a5768ca0417e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Dungeon_env_mod11.prefab using Guid(ab8d37d5e7fb9b347b62a5768ca0417e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67fe39986c14b30c45431c7206bf256a') in 0.424258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DungeonProps-1.4.5/Coin.006_1.prefab
+  artifactKey: Guid(53b3009bbc71785408bf8d42136e6a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Coin.006_1.prefab using Guid(53b3009bbc71785408bf8d42136e6a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9504d5681faedfccb63e8db805078e7b') in 0.430629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/DungeonProps-1.4.5/Dungeon_env_mod18.prefab
+  artifactKey: Guid(99bf9214b4b052f40b241ccb37ba7466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Dungeon_env_mod18.prefab using Guid(99bf9214b4b052f40b241ccb37ba7466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8589613cfc8d37ccb791041cd270e0') in 0.410677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/DungeonProps-1.4.5/Box.prefab
+  artifactKey: Guid(ed3f9970107744643a860b65a8553936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Box.prefab using Guid(ed3f9970107744643a860b65a8553936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bdca0a191238f1dd2db7ca792683cb2') in 0.663688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1458
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/DungeonProps-1.4.5/ChestBotton.prefab
+  artifactKey: Guid(2d32d12c7cd095e4e9754af2e16bf073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/ChestBotton.prefab using Guid(2d32d12c7cd095e4e9754af2e16bf073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e5837ff1bbc574bed9a5211bd0185c') in 0.057388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod1.prefab
+  artifactKey: Guid(494cf2d7e7f92d34fad958c0248b151d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod1.prefab using Guid(494cf2d7e7f92d34fad958c0248b151d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c976ab8bf2cb874f307aed86a5e86ad') in 0.488337 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/DungeonProps-1.4.5/ApplePie.prefab
+  artifactKey: Guid(1f7a01e1e948df14ba04cb1adabdb98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/ApplePie.prefab using Guid(1f7a01e1e948df14ba04cb1adabdb98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1ce6317a3e36b8db9ec3558d52ea08') in 0.586238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/DungeonProps-1.4.5/DungeonTileFragment.prefab
+  artifactKey: Guid(2b2bad66e00f2ea479e0bcf96f7ef8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/DungeonTileFragment.prefab using Guid(2b2bad66e00f2ea479e0bcf96f7ef8e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75338db182bbd36db317c2629b740ce8') in 0.582948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/DungeonProps-1.4.5/Brazier.prefab
+  artifactKey: Guid(6bf52e3254d167e429b41b995e9dd2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Brazier.prefab using Guid(6bf52e3254d167e429b41b995e9dd2d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b3bccea5cc203205c753b9201bd1c9') in 0.425189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DungeonProps-1.4.5/DungeonTileFragment.001.prefab
+  artifactKey: Guid(6958266bd8edf20499acf5530a6a49c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/DungeonTileFragment.001.prefab using Guid(6958266bd8edf20499acf5530a6a49c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8161ecc2d412e7ee9bdf712318bba950') in 0.415587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/DungeonProps-1.4.5/Coin.010_1.prefab
+  artifactKey: Guid(81a217377c33c704e90208f399754cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Coin.010_1.prefab using Guid(81a217377c33c704e90208f399754cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bc3c60bd375579174df15d446e4afb') in 0.345914 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod9.prefab
+  artifactKey: Guid(b5915fe08d55314468ebc517689289b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod9.prefab using Guid(b5915fe08d55314468ebc517689289b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114df55590877116f9448a4e6610e5f7') in 0.628554 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/DungeonProps-1.4.5/grass1.prefab
+  artifactKey: Guid(faa85908be6dba54fa42bb6e81362da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/grass1.prefab using Guid(faa85908be6dba54fa42bb6e81362da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077a547ffd6fb3437959e5aa801de490') in 0.612285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/DungeonProps-1.4.5/Coin.003_1.prefab
+  artifactKey: Guid(e4dc08fd06e97364e97ecab0474c7232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Coin.003_1.prefab using Guid(e4dc08fd06e97364e97ecab0474c7232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc75f224a5b5cbea6ca2841caeee0df') in 0.463370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/DungeonProps-1.4.5/DungeonFloorGrille.prefab
+  artifactKey: Guid(0605d8e5d3d1b2349aea3e993fc0576a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/DungeonFloorGrille.prefab using Guid(0605d8e5d3d1b2349aea3e993fc0576a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c72f83b75cc08d08ab6936e0051458e') in 0.611827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 15.079865 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod12.prefab
+  artifactKey: Guid(28bfaf6429886864f841c11afa0b7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod12.prefab using Guid(28bfaf6429886864f841c11afa0b7813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38d2e6b631abf48caf9e12d6de9e24c') in 0.433983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod17.prefab
+  artifactKey: Guid(3d5a0047f97872f4f9fd13f1e19af4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod17.prefab using Guid(3d5a0047f97872f4f9fd13f1e19af4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1080e94bbe2b114c50e82124a415dc55') in 0.492083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DungeonProps-1.4.5/Grass_env_mod16.prefab
+  artifactKey: Guid(7619186239ff3b24c93bbdd28ed329a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Grass_env_mod16.prefab using Guid(7619186239ff3b24c93bbdd28ed329a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd950e97f0b4d24892a36e4c82ac7f644') in 0.451732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 44.286189 seconds.
+  path: Assets/DungeonProps-1.4.5/GroundTileSand.prefab
+  artifactKey: Guid(2a927f3c3ce2eb74aa8b143fc1338098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/GroundTileSand.prefab using Guid(2a927f3c3ce2eb74aa8b143fc1338098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd69b1692095cd9af94d00e6f2b0156') in 0.509711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DungeonProps-1.4.5/JunkBrick1.prefab
+  artifactKey: Guid(674de18c3531e4345933b929f89089a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/JunkBrick1.prefab using Guid(674de18c3531e4345933b929f89089a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a051dd3977e37763400f3b51d6215413') in 0.845211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DungeonProps-1.4.5/HouseWall.prefab
+  artifactKey: Guid(9851991d6ecd64549b43a2e0649a02a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/HouseWall.prefab using Guid(9851991d6ecd64549b43a2e0649a02a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5612ece9d2261c5d927470732af4e6d7') in 0.668025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 137.413874 seconds.
+  path: Assets/DungeonProps-1.4.5/JunkStone.prefab
+  artifactKey: Guid(27227a18a671bb6408c3765183ea6ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/JunkStone.prefab using Guid(27227a18a671bb6408c3765183ea6ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8528add4e3d7317d486abf2ad37dbb4') in 3.094421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DungeonProps-1.4.5/WaterFall.prefab
+  artifactKey: Guid(a83f3f401085eef40a5d5160602fe193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/WaterFall.prefab using Guid(a83f3f401085eef40a5d5160602fe193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c077cbd3457525381ee271a258aeb3') in 0.346452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/DungeonProps-1.4.5/Light.prefab
+  artifactKey: Guid(2b026ba3dcac19643bb29f3d98f4b9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Light.prefab using Guid(2b026ba3dcac19643bb29f3d98f4b9a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd446a7ff534b9b941a35e5408d9553ed') in 0.305199 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/DungeonProps-1.4.5/Window.prefab
+  artifactKey: Guid(0caf519d5ae094e4ea80fb70e6769fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Window.prefab using Guid(0caf519d5ae094e4ea80fb70e6769fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a0e0138776282a589766b883f5452f6') in 0.299796 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod18.prefab
+  artifactKey: Guid(776095bf2d89f6f4f9e14f3459490af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod18.prefab using Guid(776095bf2d89f6f4f9e14f3459490af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d05d0705004ad80a1bad8ddee3a2ee') in 0.322717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/DungeonProps-1.4.5/Totem.prefab
+  artifactKey: Guid(7c1623644f8beef47bfe23ddb1e89519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Totem.prefab using Guid(7c1623644f8beef47bfe23ddb1e89519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70dcc3fbe8b3ea18c94aff1bceebbdcf') in 0.276293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DungeonProps-1.4.5/Scroll.prefab
+  artifactKey: Guid(3716a1d428b729b478b9ffb808a66499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Scroll.prefab using Guid(3716a1d428b729b478b9ffb808a66499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4544dd512629c35000226bd8bc85108') in 0.293659 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/DungeonProps-1.4.5/SkullArtefact.001_1.prefab
+  artifactKey: Guid(b4ae854be5195a8448ef837bf5547f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/SkullArtefact.001_1.prefab using Guid(b4ae854be5195a8448ef837bf5547f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f6ad335f514f51e691dc53e9a2b3f7') in 0.285241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/DungeonProps-1.4.5/Trident.prefab
+  artifactKey: Guid(434b42a9c9360d44f9ec3436cb2043e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Trident.prefab using Guid(434b42a9c9360d44f9ec3436cb2043e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9a5a6fd1c1237ca8a803be6f4fd1e7') in 0.284320 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod8.prefab
+  artifactKey: Guid(e1ec08351e951824e920b45c266f1a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod8.prefab using Guid(e1ec08351e951824e920b45c266f1a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d058837281480c86539160b91a92b10') in 0.297615 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/DungeonProps-1.4.5/Rat1.prefab
+  artifactKey: Guid(3a5165b51c7351246b1428bf85bafde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Rat1.prefab using Guid(3a5165b51c7351246b1428bf85bafde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f0f9758c569fd69eff3d900ee796ae0') in 0.303553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/DungeonProps-1.4.5/Stair.prefab
+  artifactKey: Guid(6b4fcc0c59f204b4cb5e80dd90cc085f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Stair.prefab using Guid(6b4fcc0c59f204b4cb5e80dd90cc085f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6f19e228fdbef757eaf7baac9dcda3') in 0.269747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/DungeonProps-1.4.5/Sword.prefab
+  artifactKey: Guid(71bee573519e46946b36e7b865096689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sword.prefab using Guid(71bee573519e46946b36e7b865096689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fb7a584a46dea7b58abf0c77eb6523') in 0.336594 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.880374 seconds.
+  path: Assets/DungeonProps-1.4.5/JunkWallPiece2.prefab
+  artifactKey: Guid(ecba34b5ccfc6414e8012b7a2b7be942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/JunkWallPiece2.prefab using Guid(ecba34b5ccfc6414e8012b7a2b7be942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d02d6aea4d5022d4f66c2ab06182b1b') in 0.254910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/DungeonProps-1.4.5/PoteBreak.003.prefab
+  artifactKey: Guid(8d71833786e70b940a7a5686aec00c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/PoteBreak.003.prefab using Guid(8d71833786e70b940a7a5686aec00c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d77ffa277264ecd99f0103aaf9c3f94') in 0.189966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/DungeonProps-1.4.5/Pote.prefab
+  artifactKey: Guid(516d124de2acc7f42a81aff8bfc5ded3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Pote.prefab using Guid(516d124de2acc7f42a81aff8bfc5ded3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaef10a79534b32637adb0d46657f946') in 0.253968 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod5.prefab
+  artifactKey: Guid(657c4ab35b29ef04bbeed1ad19212661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod5.prefab using Guid(657c4ab35b29ef04bbeed1ad19212661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c002b2e44d4e8e6d4f90724bdb45acd7') in 0.208326 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod11.prefab
+  artifactKey: Guid(ead781013a115f94d9ea6964db55b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod11.prefab using Guid(ead781013a115f94d9ea6964db55b7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a17e1e9eb83d2c469baa7102ae29725') in 0.190647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/DungeonProps-1.4.5/Lava.prefab
+  artifactKey: Guid(9580fde9d2240714991ab76a1ac015a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Lava.prefab using Guid(9580fde9d2240714991ab76a1ac015a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0f5893b1adbb7014bad832a63d56b2') in 0.256876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/DungeonProps-1.4.5/LightPost.prefab
+  artifactKey: Guid(2b266a7d3eb292a4ab64cf081a755369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/LightPost.prefab using Guid(2b266a7d3eb292a4ab64cf081a755369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a7012b469c66d082fa9a2cbb18df99') in 0.239086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/DungeonProps-1.4.5/ruins_module_02_end_a.003.prefab
+  artifactKey: Guid(bcfb6473ee8b81e4bbdf40d04d214f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/ruins_module_02_end_a.003.prefab using Guid(bcfb6473ee8b81e4bbdf40d04d214f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed018c0df976a74f8bb4d6f67c1001d7') in 0.376772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/DungeonProps-1.4.5/Pote.001.prefab
+  artifactKey: Guid(9c20c66cc67e52f4797b3711ec54568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Pote.001.prefab using Guid(9c20c66cc67e52f4797b3711ec54568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c86bb764a0442f9a9bf435c922dd34') in 0.237680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DungeonProps-1.4.5/Rat2.prefab
+  artifactKey: Guid(0d9146c7d22ebff48a48c4bf70cf9476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Rat2.prefab using Guid(0d9146c7d22ebff48a48c4bf70cf9476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8edd31e8d6f55f02df42cc75b5c4ad') in 0.323128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod15.prefab
+  artifactKey: Guid(6d7ece1e56f10f8478df8000f5786e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod15.prefab using Guid(6d7ece1e56f10f8478df8000f5786e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd22721cc3b28c77b154ee91e4a195e') in 0.251969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DungeonProps-1.4.5/MetalRing.prefab
+  artifactKey: Guid(53566699418001949b57e97b09df4a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/MetalRing.prefab using Guid(53566699418001949b57e97b09df4a48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c020892381a75f394c15b7d8098fcd59') in 0.323941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod17.prefab
+  artifactKey: Guid(b68ffc53d3cf4a44f8bacd907b40620c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod17.prefab using Guid(b68ffc53d3cf4a44f8bacd907b40620c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb275c7f0a5a80fd51aef9e9b00d793') in 0.236532 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/DungeonProps-1.4.5/key2.prefab
+  artifactKey: Guid(4891ec332c4c77d4ab7542e7d6fbe4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/key2.prefab using Guid(4891ec332c4c77d4ab7542e7d6fbe4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1e5abc1504c517d9b79161650912df') in 0.303395 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod1.prefab
+  artifactKey: Guid(c160a692ea3f66c4fa6e361a47041f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod1.prefab using Guid(c160a692ea3f66c4fa6e361a47041f8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8b948ac04454bc68ba17eb789f48d0') in 0.252982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/DungeonProps-1.4.5/Ruins_module_02_end_a.001.prefab
+  artifactKey: Guid(2f4f4ef9ff0c48142ab2d1b1340f9374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Ruins_module_02_end_a.001.prefab using Guid(2f4f4ef9ff0c48142ab2d1b1340f9374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628529c0c33a0a3e8011f0a57f62e849') in 0.227630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/DungeonProps-1.4.5/MetalRing.001.prefab
+  artifactKey: Guid(a4f6c731b28cba146888d0c046d8a5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/MetalRing.001.prefab using Guid(a4f6c731b28cba146888d0c046d8a5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c785fe9aec826488192955883a504499') in 0.265941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DungeonProps-1.4.5/Ruins_module_02_end_a.prefab
+  artifactKey: Guid(e82cbd0c1ff8cf7488c3b689da17ecab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Ruins_module_02_end_a.prefab using Guid(e82cbd0c1ff8cf7488c3b689da17ecab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d0fceca8d3c1b8c83d27491e41482b') in 0.280606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/DungeonProps-1.4.5/Sand_env_mod3.prefab
+  artifactKey: Guid(5d85ec5ef57ae14438b2bd7276c7c33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/Sand_env_mod3.prefab using Guid(5d85ec5ef57ae14438b2bd7276c7c33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbbb5ca1c9817087a6ecfd1a91b72755') in 0.283075 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/DungeonProps-1.4.5/MetalRing.002.prefab
+  artifactKey: Guid(2ac3d4e75b8fb3e4bb40ee6c61f07407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DungeonProps-1.4.5/MetalRing.002.prefab using Guid(2ac3d4e75b8fb3e4bb40ee6c61f07407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2dfdf1711b095a50c5271657cd6519d') in 0.261794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1453
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Refreshing native plugins compatible for Editor in 5.96 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.05 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (0.9 KB). Loaded Objects now: 6404.
+Memory consumption went from 107.3 MB to 107.3 MB.
+Total: 6.772900 ms (FindLiveObjects: 0.286400 ms CreateObjectMapping: 0.240800 ms MarkObjects: 6.222400 ms  DeleteObjects: 0.022300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

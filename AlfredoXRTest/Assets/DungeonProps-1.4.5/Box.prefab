@@ -120,6 +120,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitsToBreake: 3
+  hitSound: {fileID: 8300000, guid: 01c6fd894982ed144bc60d80213f8e89, type: 3}
+  breakeSound: {fileID: 8300000, guid: 95c502e3e0427c84ba8bcabe6a5fe838, type: 3}
   axeRef: {fileID: 0}
   source: {fileID: 8453892565314342921}
 --- !u!82 &8453892565314342921
